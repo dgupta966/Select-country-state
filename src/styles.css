@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  background: gray;
+}
+select {
+  width: 250px;
+  height: 40px;
+  margin-top: 8px;
+  color: white;
+  border: blanchedalmond 1px solid;
+  border-radius: 5px;
+  font-size: 18px;
+  font-family: fantasy;
+  padding: 5px;
+}
+span {
+  color: white;
+  font-size: 14px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: red;
+}
+.name {
+  margin-top: 25px;
+  color: white;
+  font-family: fantasy;
+  font-size: 20px;
+}
+.test {
+  margin-top: 15px;
+  color: white;
+  font-family: fantasy;
+  font-size: 14px;
+}
